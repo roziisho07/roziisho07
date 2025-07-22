@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Rozi Shah
-**Full-Stack Developer | NextJs Frontend Developer**
+**NextJs Frontend Developer**
 
 ### 👨‍💻 About Me
-- 💼 Developer at **Gethunza LLC (USA)** – delivering web, software, and architectural services
-- 🎨 Founder of **Naqsh Arts** – remote creative studio offering video, branding & culture-led projects
+- 💼 Developer at **Gethunza LLC (USA)** 
 - 🛠️ Tech Stack: `Next.js`, `TypeScript`, `Tailwind CSS`, `Sanity CMS`, `Framer Motion`, `Node.js`
 - 🤖 Exploring: `AI Chatbots`, `Workflow Automation`, `Generative Media`, `Prompt Engineering`
 - 🌍 Working with clients across **USA, Pakistan, and globally**
