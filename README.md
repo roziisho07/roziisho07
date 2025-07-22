@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rozi Shah
-**Full-Stack Developer | NextJs Frontend Developer
+**Full-Stack Developer | NextJs Frontend Developer**
 
 ### 👨‍💻 About Me
 - 💼 Developer at **Gethunza LLC (USA)** – delivering web, software, and architectural services
