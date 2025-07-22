@@ -10,7 +10,7 @@
 
 ### 📫 Let's Connect!
 
-- 📧 Email: `rozi@gethunza.com`
+- 📧 Email: `roziisho@gmail.com`
 - 💼 [LinkedIn](https://linkedin.com/in//rozi-shah-roziisho/)
 
 ### ⚡ Fun Facts
