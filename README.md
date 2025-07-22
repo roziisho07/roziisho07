@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Rozi Shah
+**Full-Stack Developer | NextJs Frontend Developer
 
-<!--
-**roziisho07/roziisho07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 💼 Developer at **Gethunza LLC (USA)** – delivering web, software, and architectural services
+- 🎨 Founder of **Naqsh Arts** – remote creative studio offering video, branding & culture-led projects
+- 🛠️ Tech Stack: `Next.js`, `TypeScript`, `Tailwind CSS`, `Sanity CMS`, `Framer Motion`, `Node.js`
+- 🤖 Exploring: `AI Chatbots`, `Workflow Automation`, `Generative Media`, `Prompt Engineering`
+- 🌍 Working with clients across **USA, Pakistan, and globally**
 
-Here are some ideas to get you started:
+### 📫 Let's Connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: `rozi@gethunza.com`
+- 💼 [LinkedIn](https://linkedin.com/in//rozi-shah-roziisho/)
+
+### ⚡ Fun Facts
+- I mix design, code, and culture to tell stories and build useful tools.
+- I'm passionate about mental health, climate, and tech for good.
+- Always experimenting with new tech, automations, and ideas!
+- I love producing music.
+
+---
+
+_“Bringing Amazing Ideas to Life” —._
+
